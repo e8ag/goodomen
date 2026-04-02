@@ -1,0 +1,32 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_4362E410_49EC_E41D_41BA_07BC402CEB1E.label = Bottom & way out
+panorama_436284D4_49EC_A406_41C7_E74DDC245761.label = Bottom 1 Master
+panorama_436285FB_49EC_A402_41C2_2633E44F1AD6.label = Closer look Left 2
+panorama_433A2906_49EC_6C05_41D1_688C1729FB8C.label = Distillery Inside
+panorama_4360C080_49EC_7CFD_41B5_944861CD676B.label = Left 1
+panorama_43622F25_49EC_6406_41C3_80C4872E570D.label = Left 2
+panorama_4363EC69_49EC_640E_41CA_06E631BB9CC0.label = Left corner
+panorama_4362DC2E_49EC_A402_41C6_40F97834ED01.label = Masters view
+panorama_436215E2_49EC_643D_4192_341B5D6E8006.label = Outside Barrels Storage
+panorama_43620D4E_49EC_6405_41B3_38D6B73D0850.label = Parking
+panorama_4363F4EC_49EC_6406_419E_1FDD09BDD843.label = Products Outside
+panorama_43622B5B_49EC_EC03_41CA_385677F77DAC.label = Right bottom
+panorama_436232B5_49EC_FC06_41D0_E9F64BE92D1B.label = Right side
+panorama_436219F0_49EC_EC1E_419C_1FF674B2D37D.label = Stairs 1
+panorama_436253C3_49ED_9C03_41C6_ABE2180CE751.label = Street view
+panorama_43620E87_49EC_A403_41C8_B29CD9282E3B.label = Upstairs Still Close View
+panorama_4362073C_49EC_A405_41C6_7D8F8F62EBEA.label = Upstairs bottom Still
+panorama_43626FCF_49EC_A403_41B8_6B2028D0322B.label = Upstairs full view
+panorama_43621873_49EC_AC03_41C1_0D6ED93A88CD.label = Upstairs tanks
+panorama_4362513B_49EC_9C02_41D2_6161B4381F8F.label = upstairs 1
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Good Omen
